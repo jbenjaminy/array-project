@@ -107,6 +107,8 @@ console.log( multiplyOthers( [ 1, 3, 9, 4 ] ) )
           return ret;
         }
 
+    -OR-    
+
       // O(N) but risks inaccuracy due to overflow and precision loss
         function products(arr) {
           var ret = [];
